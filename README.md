@@ -7,7 +7,7 @@ Grilla de Productos
 3. Usar modulos de layout CSS Grid y Flexbox.
 4. Deben crear lo mas similar el diseño de la tarjeta.
    - Imagenes de ejemplo.
-   -Titulo 
+   - Titulo 
    - Descripción
    - Boton de compra 
 5. Al menos dos brakepoints de media queries.
